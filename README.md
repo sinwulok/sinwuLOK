@@ -39,12 +39,18 @@ Here are some ideas to get you started:
 
 Hi there 👋
 
-My name is Maximilian LOK and I am a Full-Stack Engineer specializing with AI integration🤖 for Data-Science applications💹.
-- ✍️ Currently developing [X Building the RAG me App](https://github.com/sinwulok/x.Biu.RAG.me.app), an AI-RAG-driven assis app.
-- ✍️ Currently developing [binance-multi-assets-singal-agent](https://github.com/sinwulok/binance-multi-assets-singal-agent), an AI-driven for Real-time detection Binance multi-assets and trading singal agent.
-- 🔬 I'm also studying Rust programming which is poised for prosperity and growth in AI, Trading, and even Web3 fields.
+I’m Maximilian LOK — a Full‑Stack Engineer focused on integrating AI into data‑science applications.
 
-🧠This year is the moment AI-powered technologies, fueled by Deepseek's advancements, truly begin to augment human capabilities, fostering collaboration and enabling us to achieve extraordinary feats🚀.
+In the second half of 2025 I concentrated on two core projects: 
+- [biu.1-ragme-github](https://github.com/sinwulok/biu.1-ragme-github) (a retrieval‑augmented assistant prototype)
+- [biu.1-ai-quant](https://github.com/sinwulok/biu.1-ai-quant) (a real‑time multi‑asset detection and signal generation agent).
+
+During that period I iterated on RAG pipelines and retrieval components, improved real‑time detection and signal workflows for multi‑asset trading, and explored Rust for high‑performance modules and Web3 experiments.
+
+[You can also check my credentials page](https://sinwulok.github.io/credentials/). 
+
+In 2026 I’ll be working to productionize these systems, improve robustness, and expand open‑source contributions.
+
 
 <!-- 🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️🛠️ ------------------------------------------------------------------------->
 <!-- standard summary format -->
