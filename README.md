@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 Hi there 👋
 
-I’m Maximilian LOK — a Full‑Stack Engineer focused on integrating AI into data‑science applications.
+I’m Maximilian LOK — a Full‑Stack Engineer focused on integrating AI into data‑science and system trading applications.
 
 In the second half of 2025 I concentrated on two core projects: 
 - [biu.1-ragme-github](https://github.com/sinwulok/biu.1-ragme-github) (a retrieval‑augmented assistant prototype)
